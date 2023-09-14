@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "№13 Вывести третью цифру числа или что её цифры нет/1.0.0": {
+        "runtime": {
+          "№13 Вывести третью цифру числа или что её цифры нет.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "№13 Вывести третью цифру числа или что её цифры нет/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

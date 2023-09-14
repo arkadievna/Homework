@@ -1,0 +1,15 @@
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\task_10_решение GB.csproj.AssemblyReference.cache
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\task_10_решение GB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\task_10_решение GB.AssemblyInfoInputs.cache
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\task_10_решение GB.AssemblyInfo.cs
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\task_10_решение GB.csproj.CoreCompileInputs.cache
+D:\Юлия\С#\seminar_2\task_10_решение GB\bin\Debug\net7.0\task_10_решение GB.exe
+D:\Юлия\С#\seminar_2\task_10_решение GB\bin\Debug\net7.0\task_10_решение GB.deps.json
+D:\Юлия\С#\seminar_2\task_10_решение GB\bin\Debug\net7.0\task_10_решение GB.runtimeconfig.json
+D:\Юлия\С#\seminar_2\task_10_решение GB\bin\Debug\net7.0\task_10_решение GB.dll
+D:\Юлия\С#\seminar_2\task_10_решение GB\bin\Debug\net7.0\task_10_решение GB.pdb
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\task_10_решение GB.dll
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\refint\task_10_решение GB.dll
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\task_10_решение GB.pdb
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\task_10_решение GB.genruntimeconfig.cache
+D:\Юлия\С#\seminar_2\task_10_решение GB\obj\Debug\net7.0\ref\task_10_решение GB.dll

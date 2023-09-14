@@ -1,0 +1,15 @@
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\task_13_третья цифра от начала.csproj.AssemblyReference.cache
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\task_13_третья цифра от начала.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\task_13_третья цифра от начала.AssemblyInfoInputs.cache
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\task_13_третья цифра от начала.AssemblyInfo.cs
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\task_13_третья цифра от начала.csproj.CoreCompileInputs.cache
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\bin\Debug\net7.0\task_13_третья цифра от начала.exe
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\bin\Debug\net7.0\task_13_третья цифра от начала.deps.json
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\bin\Debug\net7.0\task_13_третья цифра от начала.runtimeconfig.json
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\bin\Debug\net7.0\task_13_третья цифра от начала.dll
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\bin\Debug\net7.0\task_13_третья цифра от начала.pdb
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\task_13_третья цифра от начала.dll
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\refint\task_13_третья цифра от начала.dll
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\task_13_третья цифра от начала.pdb
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\task_13_третья цифра от начала.genruntimeconfig.cache
+D:\Юлия\С#\seminar_2\task_13_третья цифра от начала\obj\Debug\net7.0\ref\task_13_третья цифра от начала.dll
