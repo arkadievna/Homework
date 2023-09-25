@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\task_25-2_просто.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\task_25-2_просто.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\task_25-2_просто.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\task_25-2_просто.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\task_25-2_просто.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\bin\Debug\net7.0\task_25-2_просто.exe
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\bin\Debug\net7.0\task_25-2_просто.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\bin\Debug\net7.0\task_25-2_просто.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\bin\Debug\net7.0\task_25-2_просто.dll
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\bin\Debug\net7.0\task_25-2_просто.pdb
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\task_25-2_просто.dll
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\refint\task_25-2_просто.dll
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\task_25-2_просто.pdb
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\task_25-2_просто.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_4\task_25-2_просто\obj\Debug\net7.0\ref\task_25-2_просто.dll

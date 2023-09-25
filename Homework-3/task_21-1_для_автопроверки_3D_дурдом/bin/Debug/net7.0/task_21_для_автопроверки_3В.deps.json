@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "task_21_для_автопроверки_3В/1.0.0": {
+        "runtime": {
+          "task_21_для_автопроверки_3В.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task_21_для_автопроверки_3В/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

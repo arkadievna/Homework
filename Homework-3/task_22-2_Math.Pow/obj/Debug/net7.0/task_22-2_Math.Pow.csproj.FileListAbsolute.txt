@@ -1,0 +1,5 @@
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-2_Math.Pow\obj\Debug\net7.0\task_22-2_Math.Pow.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-2_Math.Pow\obj\Debug\net7.0\task_22-2_Math.Pow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-2_Math.Pow\obj\Debug\net7.0\task_22-2_Math.Pow.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-2_Math.Pow\obj\Debug\net7.0\task_22-2_Math.Pow.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-2_Math.Pow\obj\Debug\net7.0\task_22-2_Math.Pow.csproj.CoreCompileInputs.cache

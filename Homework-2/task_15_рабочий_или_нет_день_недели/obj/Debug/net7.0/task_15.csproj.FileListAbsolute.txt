@@ -1,0 +1,15 @@
+D:\Юлия\С#\seminar_2\task_15\bin\Debug\net7.0\task_15.exe
+D:\Юлия\С#\seminar_2\task_15\bin\Debug\net7.0\task_15.deps.json
+D:\Юлия\С#\seminar_2\task_15\bin\Debug\net7.0\task_15.runtimeconfig.json
+D:\Юлия\С#\seminar_2\task_15\bin\Debug\net7.0\task_15.dll
+D:\Юлия\С#\seminar_2\task_15\bin\Debug\net7.0\task_15.pdb
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\task_15.csproj.AssemblyReference.cache
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\task_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\task_15.AssemblyInfoInputs.cache
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\task_15.AssemblyInfo.cs
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\task_15.csproj.CoreCompileInputs.cache
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\task_15.dll
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\refint\task_15.dll
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\task_15.pdb
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\task_15.genruntimeconfig.cache
+D:\Юлия\С#\seminar_2\task_15\obj\Debug\net7.0\ref\task_15.dll

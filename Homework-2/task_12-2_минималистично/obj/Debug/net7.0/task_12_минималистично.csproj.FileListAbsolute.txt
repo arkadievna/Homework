@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\bin\Debug\net7.0\task_12_минималистично.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\bin\Debug\net7.0\task_12_минималистично.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\bin\Debug\net7.0\task_12_минималистично.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\bin\Debug\net7.0\task_12_минималистично.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\bin\Debug\net7.0\task_12_минималистично.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\task_12_минималистично.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\task_12_минималистично.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\task_12_минималистично.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\task_12_минималистично.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\task_12_минималистично.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\task_12_минималистично.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\refint\task_12_минималистично.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\task_12_минималистично.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\task_12_минималистично.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_12_минималистично\obj\Debug\net7.0\ref\task_12_минималистично.dll

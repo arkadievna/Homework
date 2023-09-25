@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\task_19-6_Dictionary.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\task_19-6_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\task_19-6_Dictionary.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\task_19-6_Dictionary.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\task_19-6_Dictionary.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\bin\Debug\net7.0\task_19-6_Dictionary.exe
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\bin\Debug\net7.0\task_19-6_Dictionary.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\bin\Debug\net7.0\task_19-6_Dictionary.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\bin\Debug\net7.0\task_19-6_Dictionary.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\bin\Debug\net7.0\task_19-6_Dictionary.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\task_19-6_Dictionary.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\refint\task_19-6_Dictionary.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\task_19-6_Dictionary.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\task_19-6_Dictionary.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-6_Dictionary\obj\Debug\net7.0\ref\task_19-6_Dictionary.dll

@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\bin\Debug\net7.0\task_15-4_Dictionary_решение_GB.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\bin\Debug\net7.0\task_15-4_Dictionary_решение_GB.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\bin\Debug\net7.0\task_15-4_Dictionary_решение_GB.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\bin\Debug\net7.0\task_15-4_Dictionary_решение_GB.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\bin\Debug\net7.0\task_15-4_Dictionary_решение_GB.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\task_15-4_Dictionary_решение_GB.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\task_15-4_Dictionary_решение_GB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\task_15-4_Dictionary_решение_GB.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\task_15-4_Dictionary_решение_GB.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\task_15-4_Dictionary_решение_GB.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\task_15-4_Dictionary_решение_GB.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\refint\task_15-4_Dictionary_решение_GB.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\task_15-4_Dictionary_решение_GB.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\task_15-4_Dictionary_решение_GB.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_15-4_Dictionary_решение_GB\obj\Debug\net7.0\ref\task_15-4_Dictionary_решение_GB.dll

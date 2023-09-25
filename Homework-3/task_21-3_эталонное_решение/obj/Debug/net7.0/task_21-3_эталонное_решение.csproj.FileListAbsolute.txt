@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\bin\Debug\net7.0\task_21-3_эталонное_решение.exe
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\bin\Debug\net7.0\task_21-3_эталонное_решение.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\bin\Debug\net7.0\task_21-3_эталонное_решение.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\bin\Debug\net7.0\task_21-3_эталонное_решение.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\bin\Debug\net7.0\task_21-3_эталонное_решение.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\task_21-3_эталонное_решение.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\task_21-3_эталонное_решение.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\task_21-3_эталонное_решение.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\task_21-3_эталонное_решение.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\task_21-3_эталонное_решение.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\task_21-3_эталонное_решение.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\refint\task_21-3_эталонное_решение.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\task_21-3_эталонное_решение.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\task_21-3_эталонное_решение.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21-3_эталонное_решение\obj\Debug\net7.0\ref\task_21-3_эталонное_решение.dll

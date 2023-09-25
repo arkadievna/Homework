@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\task_13-6_логорифм.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\task_13-6_логорифм.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\task_13-6_логорифм.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\task_13-6_логорифм.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\task_13-6_логорифм.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\bin\Debug\net7.0\task_13-6_логорифм.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\bin\Debug\net7.0\task_13-6_логорифм.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\bin\Debug\net7.0\task_13-6_логорифм.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\bin\Debug\net7.0\task_13-6_логорифм.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\bin\Debug\net7.0\task_13-6_логорифм.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\task_13-6_логорифм.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\refint\task_13-6_логорифм.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\task_13-6_логорифм.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\task_13-6_логорифм.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм\obj\Debug\net7.0\ref\task_13-6_логорифм.dll

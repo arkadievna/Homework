@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\bin\Debug\net7.0\task_9-3_решение_второго_препода.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\bin\Debug\net7.0\task_9-3_решение_второго_препода.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\bin\Debug\net7.0\task_9-3_решение_второго_препода.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\bin\Debug\net7.0\task_9-3_решение_второго_препода.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\bin\Debug\net7.0\task_9-3_решение_второго_препода.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\task_9-3_решение_второго_препода.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\task_9-3_решение_второго_препода.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\task_9-3_решение_второго_препода.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\task_9-3_решение_второго_препода.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\task_9-3_решение_второго_препода.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\task_9-3_решение_второго_препода.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\refint\task_9-3_решение_второго_препода.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\task_9-3_решение_второго_препода.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\task_9-3_решение_второго_препода.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_9-3_решение_второго_препода\obj\Debug\net7.0\ref\task_9-3_решение_второго_препода.dll

@@ -1,0 +1,15 @@
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\bin\Debug\net7.0\task_21 координаты 2D.exe
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\bin\Debug\net7.0\task_21 координаты 2D.deps.json
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\bin\Debug\net7.0\task_21 координаты 2D.runtimeconfig.json
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\bin\Debug\net7.0\task_21 координаты 2D.dll
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\bin\Debug\net7.0\task_21 координаты 2D.pdb
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\task_21 координаты 2D.csproj.AssemblyReference.cache
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\task_21 координаты 2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\task_21 координаты 2D.AssemblyInfoInputs.cache
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\task_21 координаты 2D.AssemblyInfo.cs
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\task_21 координаты 2D.csproj.CoreCompileInputs.cache
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\task_21 координаты 2D.dll
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\refint\task_21 координаты 2D.dll
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\task_21 координаты 2D.pdb
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\task_21 координаты 2D.genruntimeconfig.cache
+D:\Юлия\С#\seminar_3\task_21 координаты 2D\obj\Debug\net7.0\ref\task_21 координаты 2D.dll

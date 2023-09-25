@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\bin\Debug\net7.0\task_22-4_.exe
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\bin\Debug\net7.0\task_22-4_.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\bin\Debug\net7.0\task_22-4_.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\bin\Debug\net7.0\task_22-4_.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\bin\Debug\net7.0\task_22-4_.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\task_22-4_.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\task_22-4_.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\task_22-4_.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\task_22-4_.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\task_22-4_.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\task_22-4_.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\refint\task_22-4_.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\task_22-4_.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\task_22-4_.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_22-4_OutputSquares_метод_в_методе_смещение_курсора\obj\Debug\net7.0\ref\task_22-4_.dll

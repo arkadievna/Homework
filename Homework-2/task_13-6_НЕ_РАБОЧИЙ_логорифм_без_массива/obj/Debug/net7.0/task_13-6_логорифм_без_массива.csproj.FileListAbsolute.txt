@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\bin\Debug\net7.0\task_13-6_логорифм_без_массива.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\bin\Debug\net7.0\task_13-6_логорифм_без_массива.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\bin\Debug\net7.0\task_13-6_логорифм_без_массива.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\bin\Debug\net7.0\task_13-6_логорифм_без_массива.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\bin\Debug\net7.0\task_13-6_логорифм_без_массива.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\task_13-6_логорифм_без_массива.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\task_13-6_логорифм_без_массива.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\task_13-6_логорифм_без_массива.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\task_13-6_логорифм_без_массива.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\task_13-6_логорифм_без_массива.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\task_13-6_логорифм_без_массива.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\refint\task_13-6_логорифм_без_массива.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\task_13-6_логорифм_без_массива.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\task_13-6_логорифм_без_массива.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-6_логорифм_без_массива\obj\Debug\net7.0\ref\task_13-6_логорифм_без_массива.dll

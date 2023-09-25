@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\task_13-8_long.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\task_13-8_long.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\task_13-8_long.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\task_13-8_long.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\task_13-8_long.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\bin\Debug\net7.0\task_13-8_long.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\bin\Debug\net7.0\task_13-8_long.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\bin\Debug\net7.0\task_13-8_long.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\bin\Debug\net7.0\task_13-8_long.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\bin\Debug\net7.0\task_13-8_long.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\task_13-8_long.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\refint\task_13-8_long.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\task_13-8_long.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\task_13-8_long.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-8_long_ПЕРЕМУДРЁНОЕ\obj\Debug\net7.0\ref\task_13-8_long.dll

@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\bin\Debug\net7.0\task_16-3_if__else__if_else.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\bin\Debug\net7.0\task_16-3_if__else__if_else.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\bin\Debug\net7.0\task_16-3_if__else__if_else.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\bin\Debug\net7.0\task_16-3_if__else__if_else.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\bin\Debug\net7.0\task_16-3_if__else__if_else.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\task_16-3_if__else__if_else.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\task_16-3_if__else__if_else.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\task_16-3_if__else__if_else.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\task_16-3_if__else__if_else.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\task_16-3_if__else__if_else.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\task_16-3_if__else__if_else.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\refint\task_16-3_if__else__if_else.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\task_16-3_if__else__if_else.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\task_16-3_if__else__if_else.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_16-3_if__else__if_else\obj\Debug\net7.0\ref\task_16-3_if__else__if_else.dll

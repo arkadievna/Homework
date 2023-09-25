@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\task_11.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\task_11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\task_11.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\task_11.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\task_11.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\bin\Debug\net7.0\task_11.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\bin\Debug\net7.0\task_11.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\bin\Debug\net7.0\task_11.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\bin\Debug\net7.0\task_11.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\bin\Debug\net7.0\task_11.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\task_11.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\refint\task_11.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\task_11.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\task_11.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_11_трёхзначное_число_удалить_вторую_цифру\obj\Debug\net7.0\ref\task_11.dll

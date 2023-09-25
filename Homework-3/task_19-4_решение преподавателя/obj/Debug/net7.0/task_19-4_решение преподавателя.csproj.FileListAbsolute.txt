@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\task_19-4_решение преподавателя.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\task_19-4_решение преподавателя.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\task_19-4_решение преподавателя.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\task_19-4_решение преподавателя.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\task_19-4_решение преподавателя.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\bin\Debug\net7.0\task_19-4_решение преподавателя.exe
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\bin\Debug\net7.0\task_19-4_решение преподавателя.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\bin\Debug\net7.0\task_19-4_решение преподавателя.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\bin\Debug\net7.0\task_19-4_решение преподавателя.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\bin\Debug\net7.0\task_19-4_решение преподавателя.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\task_19-4_решение преподавателя.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\refint\task_19-4_решение преподавателя.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\task_19-4_решение преподавателя.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\task_19-4_решение преподавателя.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_19-4_решение преподавателя\obj\Debug\net7.0\ref\task_19-4_решение преподавателя.dll

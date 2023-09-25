@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\task_14-1_кратность_7_и_23.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\task_14-1_кратность_7_и_23.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\task_14-1_кратность_7_и_23.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\task_14-1_кратность_7_и_23.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\task_14-1_кратность_7_и_23.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\bin\Debug\net7.0\task_14-1_кратность_7_и_23.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\bin\Debug\net7.0\task_14-1_кратность_7_и_23.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\bin\Debug\net7.0\task_14-1_кратность_7_и_23.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\bin\Debug\net7.0\task_14-1_кратность_7_и_23.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\bin\Debug\net7.0\task_14-1_кратность_7_и_23.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\task_14-1_кратность_7_и_23.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\refint\task_14-1_кратность_7_и_23.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\task_14-1_кратность_7_и_23.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\task_14-1_кратность_7_и_23.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_14-1_кратность_7_и_23\obj\Debug\net7.0\ref\task_14-1_кратность_7_и_23.dll

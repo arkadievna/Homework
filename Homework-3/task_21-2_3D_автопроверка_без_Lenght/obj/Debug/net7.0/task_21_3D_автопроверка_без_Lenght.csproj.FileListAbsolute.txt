@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\bin\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.exe
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\bin\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\bin\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\bin\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\bin\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\refint\task_21_3D_автопроверка_без_Lenght.dll
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.pdb
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\task_21_3D_автопроверка_без_Lenght.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_3\task_21_3D_автопроверка_без_Lenght\obj\Debug\net7.0\ref\task_21_3D_автопроверка_без_Lenght.dll

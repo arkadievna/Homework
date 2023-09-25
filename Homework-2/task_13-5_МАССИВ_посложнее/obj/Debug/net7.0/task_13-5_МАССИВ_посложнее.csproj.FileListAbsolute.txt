@@ -1,0 +1,15 @@
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\task_13-5_МАССИВ_посложнее.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\task_13-5_МАССИВ_посложнее.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\task_13-5_МАССИВ_посложнее.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\task_13-5_МАССИВ_посложнее.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\task_13-5_МАССИВ_посложнее.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\bin\Debug\net7.0\task_13-5_МАССИВ_посложнее.exe
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\bin\Debug\net7.0\task_13-5_МАССИВ_посложнее.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\bin\Debug\net7.0\task_13-5_МАССИВ_посложнее.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\bin\Debug\net7.0\task_13-5_МАССИВ_посложнее.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\bin\Debug\net7.0\task_13-5_МАССИВ_посложнее.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\task_13-5_МАССИВ_посложнее.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\refint\task_13-5_МАССИВ_посложнее.dll
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\task_13-5_МАССИВ_посложнее.pdb
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\task_13-5_МАССИВ_посложнее.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_2\task_13-5_МАССИВ_посложнее\obj\Debug\net7.0\ref\task_13-5_МАССИВ_посложнее.dll
