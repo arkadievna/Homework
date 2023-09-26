@@ -1,0 +1,45 @@
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.exe
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.deps.json
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.runtimeconfig.json
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.dll
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.pdb
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.csproj.AssemblyReference.cache
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.AssemblyInfoInputs.cache
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.AssemblyInfo.cs
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.csproj.CoreCompileInputs.cache
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.dll
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\refint\task_36_одномерный массив_сумма нечётных.dll
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.pdb
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.genruntimeconfig.cache
+D:\Юлия\С#\seminar_5\task_36_одномерный массив_сумма нечётных\obj\Debug\net7.0\ref\task_36_одномерный массив_сумма нечётных.dll
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.exe
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.deps.json
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.runtimeconfig.json
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.dll
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.pdb
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.csproj.AssemblyReference.cache
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.AssemblyInfoInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.AssemblyInfo.cs
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.csproj.CoreCompileInputs.cache
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.dll
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\refint\task_36_одномерный массив_сумма нечётных.dll
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.pdb
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.genruntimeconfig.cache
+E:\Юлия\УЧЁБА\С#\seminar_5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\ref\task_36_одномерный массив_сумма нечётных.dll
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.exe
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.deps.json
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.runtimeconfig.json
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.dll
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\bin\Debug\net7.0\task_36_одномерный массив_сумма нечётных.pdb
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.csproj.AssemblyReference.cache
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.AssemblyInfoInputs.cache
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.AssemblyInfo.cs
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.csproj.CoreCompileInputs.cache
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.dll
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\refint\task_36_одномерный массив_сумма нечётных.dll
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.pdb
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\task_36_одномерный массив_сумма нечётных.genruntimeconfig.cache
+E:\Юлия\с-Homework\Homework-5\task_36_сумма_нечётных_в_массиве\obj\Debug\net7.0\ref\task_36_одномерный массив_сумма нечётных.dll
